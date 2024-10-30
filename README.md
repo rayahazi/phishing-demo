@@ -5,8 +5,8 @@ I used the `national identification system` of Israel for the demo.
 In the site -the user must change his/her password due to the condition in Israel, and immediately - as the alert emphasized. 
 
 #### This is the site I created using React.js. 
-<img src="img/image.png">
-<img src="img\image-1.png" height="550px"/>
+<img src="image.png">
+<img src="image-1.png" height="550px"/>
 
 #### Things to notice here for users:
 1. Links lead to nowhere
@@ -21,4 +21,4 @@ In the site -the user must change his/her password due to the condition in Israe
 
 
 #### This is the real site I took some reference from:
-<img src="img\image-2.png" height="550px">
+<img src="image-2.png" height="550px">
